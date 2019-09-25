@@ -19,10 +19,10 @@
     "unity3d-package"
   ],
   "dependencies": {
-    "com.guanshichao/dotnet-exception-utils": "https://github.com/dotnet-exception-utils.git",
-    "com.guanshichao/dotnet-type-utils": "https://github.com/dotnet-type-utils.git",
-    "com.guanshichao/unity3d-editor-menu": "https://github.com/unity3d-editor-menu.git",
-    "com.guanshichao/unity3d-utils": "https://github.com/unity3d-utils.git"
+    "com.guanshichao.dotnet-exception-utils": "https://github.com/dotnet-exception-utils.git",
+    "com.guanshichao.dotnet-type-utils": "https://github.com/dotnet-type-utils.git",
+    "com.guanshichao.unity3d-editor-menu": "https://github.com/unity3d-editor-menu.git",
+    "com.guanshichao.unity3d-utils": "https://github.com/unity3d-utils.git"
   },
   "devDependencies": {
     "github-wiki-from-markdown-book": "^1.0.0"
